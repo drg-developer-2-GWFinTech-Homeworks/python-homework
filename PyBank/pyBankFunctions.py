@@ -1,3 +1,5 @@
+def generateReport():
+    return "inside gr"
 def generateReport(numMonths, profit_total, averageMonthlyProfit):
     return [
         "Financial Analysis",

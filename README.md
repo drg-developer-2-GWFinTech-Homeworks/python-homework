@@ -8,6 +8,8 @@ The PyBank analysis provides insight into the running monthly profitability of t
 
 ### Steps
 
+The following steps are performed in the PyBank solution:
+
 1. Ingest dataset from Resources/budget_data.csv.
 
 1. Analyze to compute the following information:
